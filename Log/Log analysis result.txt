@@ -1,0 +1,4 @@
+Login: 42873
+Licences: 3 (Basic,Phone and Recorder)
+Logout: 47349
+Transaction:  (44485) idServicio=100000004, idCampanya=100000004, idSegmento=100000013, idSkill=0, idAgente=100000039, idSujeto=100000124, eOrigenTransaccion=VISTA PREVIA, idTransaccionOriginal=0, idSesionAgente=100000060, bHeredar=1, bModificarContadores=1
